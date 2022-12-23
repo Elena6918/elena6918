@@ -28,7 +28,11 @@
                       {% endfor %}
                       </ul>
                     {% else %}
-                      <span class="item">{{ item }}</span>
+                      {% if item=="Yuan Tian" %}
+                        <span class="item"> Advised by <a href="https://www.ytian.info/">{{item}}</a></span>
+                      {% else %}
+                        <span class="item">{{ item }}</span>
+                      {% endif %}
                     {% endif %}
                   </li>
                 {% endfor %}

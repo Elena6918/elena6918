@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Elena6918
 
 github_repos:
   - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - husnainfareed/Awesome-Ethical-Hacking-Resources
+  - MisterBooo/LeetCodeAnimation
+  - kaishengtai/neuralart

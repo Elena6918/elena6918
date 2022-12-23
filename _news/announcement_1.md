@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-05-21
 inline: true
 ---
 
-A simple inline announcement.
+I have graduated from the University of Virginia with BA in both Computer Science with <a href='https://csdmp.github.io/'>Highest Distinction</a> and Psychology :sparkles:
