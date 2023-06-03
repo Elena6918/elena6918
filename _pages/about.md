@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year Computer Science PhD student University of Virginia. I am advised by <a href='https://www.cs.virginia.edu/~evans/'>Professor Dave Evans</a> in <a href='https://uvasrg.github.io/'>Security Research Group</a>. I am broadly interested in research topics related to security and privacy, including but not limited to application security, network security, and data privacy. My past research includes analyzing code to find vulnerable patterns, examining online platforms to address privacy issues, and building privacy-preserving systems. I am currently working on privacy in ad ecosystem.
+I am currently a second-year Computer Science PhD student at the University of Virginia, where I am fortunate to be advised by <a href='https://www.cs.virginia.edu/~evans/'>Professor Dave Evans</a> in <a href='https://uvasrg.github.io/'>Security Research Group</a>. My research interests encompass a broad range of topics within the realm of security and privacy, including but not limited to application security, network security, and data privacy. My past research includes analyzing code to find vulnerable patterns, examining online platforms to address privacy issues, and building privacy-preserving systems. At present, my work revolves around the study of privacy within the ad ecosystem.
 
 My Chinese name is written as 龙玟君, and I go by Elena in my daily life. I drew my self-portrait on the right with <a href='https://procreate.com/'>Procreate</a>. The ears are for celebrating the Year of the Rabbit (2023).  
 
