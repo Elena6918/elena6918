@@ -1,6 +1,7 @@
 # Setting up
 conda activate website
 export PATH="/usr/local/opt/ruby/bin:$PATH"
+export PATH="$HOME/.rbenv/shims:$PATH"
 bundle install
 bundle exec jekyll serve
 
