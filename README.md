@@ -5,6 +5,7 @@ export PATH="$HOME/.rbenv/shims:$PATH"
 bundle install
 bundle exec jekyll serve
 
+manually deploy: ./bin/deploy
 
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
